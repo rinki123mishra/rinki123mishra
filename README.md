@@ -32,12 +32,12 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://aman1722.github.io/)  // i have to change
+- 💬 Have a look at my [Portfolio]()
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rinki-mishra)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Mishra_Rinki/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aman1722.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rinki-mishra)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Mishra_Rinki/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
 <h2 align="left">⚡Tech Stack</h2>
 <table align="center">
