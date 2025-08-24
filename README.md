@@ -67,7 +67,7 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
           />
         </a>
       </td>
-      <td width="25%" align="center">
+<!--       <td width="25%" align="center">
         <a href="http://getbootstrap.com/">
           <span>Bootstrap</span><br /><br />
           <img
@@ -75,7 +75,7 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
             src="https://cdn.svgporn.com/logos/bootstrap.svg"
           />
         </a>
-      </td>
+      </td> -->
     </tr>
 <!--     <tr valign="top"> -->
 <!--       <td width="25%" align="center">
@@ -119,27 +119,19 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
           />
         </a>
     </td>
-      <td width="25%" align="center">
+<!--       <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.heroku.com/">
           <span>Heroku</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />
         </a>
-      </td>
+      </td> -->
       <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <span>JavaScript</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
         </a>
       </td>
-<!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://aws.amazon.com/">
-          <span>AWS</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg" />
-        </a>
-      </td> -->
-    </tr>
-    <tr valign="top">
-        <td width="25%" align="center">
+       <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
           <span>Postman</span><br /><br />
           <img
@@ -148,6 +140,15 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
           />
         </a>
     </td>
+<!--       <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://aws.amazon.com/">
+          <span>AWS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg" />
+        </a>
+      </td> -->
+    </tr>
+    <tr valign="top">
+       
     <td width="25%" align="center">
       <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.mongodb.org/">
         <span>MongoDB</span><br /><br />
