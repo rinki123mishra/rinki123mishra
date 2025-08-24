@@ -20,7 +20,7 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
--    Checkout my **[Resume](https://drive.google.com/file/d/18VuL3lE39l_4U7Trc1mpAX57pZsCXeFe/view?usp=sharing)**
+-    Checkout my **[Resume]([https://drive.google.com/file/d/18VuL3lE39l_4U7Trc1mpAX57pZsCXeFe/view?usp=sharing](https://drive.google.com/file/d/13b3oce8pG-mCQzHDW72pPpu7dcGn052u/view?usp=sharing))**
 
 - 🌱 I’m currently learning **NODE stack**
 
@@ -32,7 +32,7 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio]()
+- 💬 Have a look at my [Portfolio](https://rinkiportfolio.netlify.app/)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
