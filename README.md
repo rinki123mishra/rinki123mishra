@@ -131,12 +131,12 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
           <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
         </a>
       </td>
-      <td width="25%" align="center">
+<!--       <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://aws.amazon.com/">
           <span>AWS</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg" />
         </a>
-      </td>
+      </td> -->
     </tr>
     <tr valign="top">
         <td width="25%" align="center">
