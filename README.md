@@ -37,7 +37,7 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rinki-mishra)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Mishra_Rinki/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rinki-mishra)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Mishra_Rinki/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rinkiportfolio.netlify.app/)
 
 <h2 align="left">⚡Tech Stack</h2>
 <table align="center">
@@ -131,7 +131,15 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
           <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
         </a>
       </td>
-       <td width="25%" align="center">
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://aws.amazon.com/">
+          <span>AWS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
           <span>Postman</span><br /><br />
           <img
@@ -140,15 +148,6 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
           />
         </a>
     </td>
-<!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://aws.amazon.com/">
-          <span>AWS</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg" />
-        </a>
-      </td> -->
-    </tr>
-    <tr valign="top">
-       
     <td width="25%" align="center">
       <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.mongodb.org/">
         <span>MongoDB</span><br /><br />
@@ -235,7 +234,6 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
 <!--     </tr> -->
   </tbody>
 </table>
-
 <br/>
 
 <!-- <div align="center">
@@ -262,7 +260,7 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Aman Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rinki123mishra&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true" /></a>
+  <a><img alt="Rinki Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rinki123mishra&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true" /></a>
 
 <br> 
 <div align="center">
