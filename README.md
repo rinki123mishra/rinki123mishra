@@ -20,7 +20,7 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
--    Checkout my **[Resume](https://drive.google.com/file/d/13b3oce8pG-mCQzHDW72pPpu7dcGn052u/view?usp=sharing])**
+-    Checkout my **[Resume](https://drive.google.com/file/d/18VuL3lE39l_4U7Trc1mpAX57pZsCXeFe/view?usp=sharing])**
 
 - 🌱 I’m currently learning **NODE stack**
 
