@@ -24,7 +24,7 @@ Hello stranger! My name is Rinki Mishra and I am a Full Stack Web Developer, pas
 
 - 🌱 I’m currently learning **NODE stack**
 
-- 👯 I’m looking to collaborate on **[LinkedIn](www.linkedin.com/in/rinki-mishra)**
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/rinki-mishra/)**
 
 - 📫 Reach me on **rinkimishra0208@gmail.com**
 
